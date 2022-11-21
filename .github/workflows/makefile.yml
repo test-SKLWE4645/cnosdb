@@ -1,4 +1,5 @@
 name: Makefile CI
+
 on:
   push:
     branches: [ "main" ]
