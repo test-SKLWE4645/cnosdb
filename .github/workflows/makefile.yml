@@ -76,4 +76,5 @@ jobs:
         run: |
           bash ./query_server/test/script/start_and_test.sh
           
+          
 
